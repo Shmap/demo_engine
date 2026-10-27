@@ -1,0 +1,40 @@
+# Build outputs
+build/
+_build/
+out/
+cmake-build-*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.pdb
+*.ilk
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+
+# Logs and temp
+*.log
+*.tmp
+*.cache
+
+# OS
+Thumbs.db
+.DS_Store
+
+# AI
+AIdocs/
+
+
